@@ -1,0 +1,7 @@
+.banner {
+  background-image: url("../../images/background.png");
+  height: 500px;
+  padding: 20px;
+  color: white;
+  display: flex;
+}
